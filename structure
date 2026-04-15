@@ -1,0 +1,13 @@
+pulse/
+ ├─ app/
+ │   ├─ page.tsx
+ │   ├─ layout.tsx
+ │   └─ globals.css
+ ├─ components/
+ │   └─ Chat.tsx
+ ├─ lib/
+ │   └─ storage.ts
+ ├─ package.json
+ ├─ tailwind.config.js
+ ├─ postcss.config.js
+ └─ next.config.js
